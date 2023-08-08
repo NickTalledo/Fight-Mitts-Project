@@ -1,2 +1,44 @@
-This is a e commerce website made with frontend code. It was created with html, css, and bootstrap.
-To run it, I used a live server through VSCode.
+# Fight-Mitts E-commerce Website
+
+The Fight-Mitts project is an E-commerce website designed to sell MMA gloves. This project has been developed using HTML, CSS, and Bootstrap to create a user-friendly and visually appealing platform for purchasing MMA gloves.
+
+## Objective
+
+The main objective of the Fight-Mitts E-commerce website is to provide users with a seamless shopping experience for MMA gloves. The project aims to showcase the use of web development technologies to create a fully functional E-commerce platform.
+
+## Features
+
+- **Homepage:** The landing page introduces users to the website's offerings, highlighting the key features and products available.
+
+- **About Page:** A dedicated page provides information about the company, its mission, and the quality of the MMA gloves.
+
+- **Product Page:** Users can explore a variety of MMA glove products, each with detailed descriptions, specifications, and prices.
+
+- **Cart:** A cart page allows users to view and manage the items they have added for purchase.
+
+- **Checkout:** The checkout page enables users to finalize their purchases, providing shipping and payment details.
+
+## Technology Stack
+
+- **HTML:** Used for structuring the content and layout of the web pages.
+
+- **CSS:** Employed for styling and design, enhancing the visual appeal of the website.
+
+- **Bootstrap:** Utilized to create responsive and mobile-friendly designs, ensuring a consistent user experience across devices.
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in the terminal.
+3. Open the HTML files using your preferred web browser to explore different pages of the website.
+
+## Contribution
+
+Feel free to contribute to the Fight-Mitts project by suggesting improvements, enhancements, or new features. Contributions will help enhance the website's functionality and aesthetics.
+
+## Note
+
+The Fight-Mitts E-commerce website demonstrates the creation of an online platform for selling MMA gloves. It showcases the effective utilization of HTML, CSS, and Bootstrap to design an appealing and functional E-commerce platform.
+
+Happy exploring and shopping for your favorite MMA gloves on Fight-Mitts!
+
